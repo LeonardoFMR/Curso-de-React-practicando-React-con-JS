@@ -1,4 +1,51 @@
-# ■ Curso_de_React_practicando_React_con_JS
+# 📌 Practicando React con JavaScript
+
+---
+
+## 📂 Acerca del repositorio
+
+Este proyecto fue desarrollado como parte del curso **Practicando React con JavaScript** de **Alura LATAM**.  
+El objetivo principal fue reforzar habilidades en React construyendo componentes dinámicos, gestionando estado y eventos, y estructurando una aplicación funcional.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML  
+- CSS  
+- JavaScript  
+- React (Create React App)
+
+---
+
+## ⚙️ Funcionalidades implementadas
+
+- Creación de componentes reutilizables y funcionales.  
+- Gestión de estado local con hooks (`useState`).  
+- Manejo de eventos (click, inputs) para interacción de usuario.  
+- Renderizado condicional y listas dinámicas mediante `map()`.  
+- Estructuración del proyecto con carpetas y archivos bien organizados.
+
+---
+
+## 🚀 Aprendizajes
+
+Durante el desarrollo, aprendí o reforcé conocimientos en:
+
+- Composición y reutilización de componentes en React.  
+- Uso del hook `useState` para manejar datos reactivos.  
+- Manejo de eventos y props para comunicación entre componentes.  
+- Estructuración y organización de proyectos con Create React App.
+
+---
+
+## 🎯 Conclusión
+
+Este proyecto me permitió consolidar conocimientos en React, enfocándome en la creación de interfaces interactivas y componentes bien estructurados.
+
+
+
+
 ▷ 01 Primeros pasos.
 ◉ 03 Creando el proyecto.
 ✳ Creación del maquetado para desplegar.
